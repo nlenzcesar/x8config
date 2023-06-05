@@ -4,8 +4,8 @@
     "GameMode.NumPlayersToStartGame": 4,
     "GameMode.ForbidLateJoinRound": 3,
     "GameMode.RoundCount": 8,
-    "IdleComponent.EnableKickPlayers": 1,
-    "TeamsComponent.AllowRebalance": 0, 
+    "IdleComponent.EnableKickPlayers": false,
+    "TeamsComponent.AllowRebalance": true, 
     "TeamsComponent.PlayerDifferenceToRebalance": 2
   }
 }
