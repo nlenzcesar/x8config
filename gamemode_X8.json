@@ -1,11 +1,7 @@
 {
   "custom" : 
   {
-    "GameMode.NumPlayersToStartGame": 8,
-    "GameMode.ForbidLateJoinRound": 8,
-    "GameMode.RoundCount": 14,
+    "GameMode.NumPlayersToStartGame": 4,
     "IdleComponent.EnableKickPlayers": true,
-    "TeamsComponent.AllowRebalance": false, 
-    "TeamsComponent.PlayerDifferenceToRebalance": 2
   }
 }
