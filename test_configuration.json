@@ -1,5 +1,6 @@
 {
     "custom" : {
-        "GameMode.RoundCount" : 8
+        "GameMode.RoundCount" : 8,
+        "ShutdownTimer.NoPlayers" : 100000.0
     }
 }
