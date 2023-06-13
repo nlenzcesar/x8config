@@ -2,7 +2,7 @@
   "custom" : 
   {
     "GameMode.NumPlayersToStartGame": 4,
-    "GameMode.RoundCount": 6,
+    "GameMode.RoundCount": 14,
     "GameMode.ShouldShutdownIfNoPlayersArePresent": false,
     "IdleComponent.EnableKickPlayers": false
   }
