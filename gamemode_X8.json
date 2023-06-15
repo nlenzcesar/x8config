@@ -2,7 +2,6 @@
   "custom" : 
   {
     "GameMode.NumPlayersToStartGame": 4,
-    "GameMode.ShouldShutdownIfNoPlayersArePresent": false,
     "IdleComponent.EnableKickPlayers": false
   }
 }
