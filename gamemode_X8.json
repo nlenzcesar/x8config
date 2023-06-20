@@ -1,6 +1,6 @@
 {
   "custom" : 
   {
-    "GameMode.NumPlayersToStartGame": 2
+    "GameMode.NumPlayersToStartGame": 4
   }
 }
