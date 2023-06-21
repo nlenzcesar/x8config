@@ -2,6 +2,8 @@
   "custom" : 
   {
     "GameMode.NumPlayersToStartGame": 8,
+    "TeamsComponent.AllowRebalance": true,
+    "TeamsComponent.PlayerDifferenceToRebalance": 2,
     "IdleComponent.EnableKickPlayers": false
   }
 }
