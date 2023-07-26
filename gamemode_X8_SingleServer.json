@@ -7,6 +7,6 @@
     "IdleComponent.EnableKickPlayers": false,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
-    "SingleServerQueue.Skirmish.LeaveTimeout": 3600
+    "SingleServerQueue.Skirmish.LeaveTimeout": 9999
   }
 }
