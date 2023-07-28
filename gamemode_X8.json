@@ -1,6 +1,7 @@
 {
   "custom" : 
   {
-    "GameMode.NumPlayersToStartGame": 4
+    "GameMode.NumPlayersToStartGame": 4,
+    "GameMode.RoundCount": 6
   }
 }
