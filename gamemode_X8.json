@@ -1,8 +1,8 @@
 {
   "custom" : 
   {
-    "GameMode.NumPlayersToStartGame": 4,
-    "GameMode.RoundCount": 10,
+    "GameMode.NumPlayersToStartGame": 2,
+    "GameMode.RoundCount": 2,
     "IdleComponent.EnableKickPlayers": false
   }
 }
