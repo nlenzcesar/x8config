@@ -2,11 +2,11 @@
   "custom" : 
   {
     "GameMode.RoundCount": 10,
-    "GameMode.NumPlayersToStartGame": 6,
+    "GameMode.NumPlayersToStartGame": 4,
     "GameMode.ForbidLateJoinRound": 6,
     "IdleComponent.EnableKickPlayers": false,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
-    "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
+    "SingleServerQueue.Skirmish.MinLeavePlayersNum": 8,
     "SingleServerQueue.Skirmish.LeaveTimeout": 180,
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
   }
