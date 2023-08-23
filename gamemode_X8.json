@@ -3,6 +3,7 @@
   {
     "GameMode.NumPlayersToStartGame": 4,
     "GameMode.RoundCount": 10,
-    "IdleComponent.EnableKickPlayers": false
+    "IdleComponent.EnableKickPlayers": false,
+    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
   }
 }
