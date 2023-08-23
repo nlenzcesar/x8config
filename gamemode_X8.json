@@ -2,6 +2,7 @@
   "custom" : 
   {
     "GameMode.NumPlayersToStartGame": 3,
-    "GameMode.RoundCount": 6
+    "GameMode.RoundCount": 6,
+    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
   }
 }
