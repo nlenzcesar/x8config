@@ -1,7 +1,7 @@
 {
   "custom" : 
   {
-    "GameMode.RoundCount": 2,
+    "GameMode.RoundCount": 10,
     "GameMode.NumPlayersToStartGame": 3,
     "GameMode.ForbidLateJoinRound": 2,
     "IdleComponent.EnableKickPlayers": false,
