@@ -6,8 +6,8 @@
     "GameMode.ForbidLateJoinRound": 5,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
-    "SingleServerQueue.Skirmish.LeaveTimeout": 180,
+    "SingleServerQueue.Skirmish.LeaveTimeout": 240,
     "TeamsComponent.AllowPartySeparationForRebalance": false,
-    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
+    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": false
   }
 }
