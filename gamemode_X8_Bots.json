@@ -1,9 +1,0 @@
-{
-  "custom" : 
-  {
-    "GameMode.NumPlayersToStartGame": 2,
-     "GameMode.RoundCount": 4,
-     "IdleComponent.EnableKickPlayers": false,
-     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
-  }
-}
