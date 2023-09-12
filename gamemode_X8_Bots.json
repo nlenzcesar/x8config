@@ -1,7 +1,0 @@
-{
-  "custom" : 
-  {
-    "GameMode.NumPlayersToStartGame": 2,
-    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
-  }
-}
