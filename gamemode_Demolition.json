@@ -11,6 +11,7 @@
     "TeamsComponent.AllowRebalance": true, 
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": true,   
-    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
+    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
+    "Server.ShutdownImmediatelyOnRequest": true
   }
 }
