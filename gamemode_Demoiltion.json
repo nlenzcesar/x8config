@@ -8,6 +8,7 @@
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
     "SingleServerQueue.Skirmish.LeaveTimeout": 240,
     "TeamsComponent.AllowPartySeparationForRebalance": false,
+    "TeamsComponent.AllowMovePartyForRebalance": false,   
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
   }
 }
