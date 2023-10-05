@@ -2,7 +2,7 @@
   "custom" : 
   {
     "GameMode.RoundCount": 10,
-    "GameMode.NumPlayersToStartGame": 2,
+    "GameMode.NumPlayersToStartGame": 11,
     "GameMode.ForbidLateJoinRound": 5,
     "IdleComponent.EnableKickPlayers": false,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
