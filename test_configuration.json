@@ -1,5 +1,7 @@
 {
     "custom" : {
-        "GameMode.RoundCount" : 8
+        "GameMode.RoundCount" : 8,
+        "MapRotation.CustomMatch" : "HikariCity_level, MechGarage_level",
+        "MapRotation.NormalMatch" : "RockFortress_level, PlazaUtopia_level"
     }
 }
