@@ -1,5 +1,5 @@
 {
     "custom" : {
-        "MapRotation.CustomMatch" : "RockFortress_level, PlazaUtopia_level, HikariCity_level, MechGarage_level"
+        "MapRotation.CustomMatch" : "MechGarage_level"
     }
 }
