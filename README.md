@@ -151,3 +151,7 @@ LogCheatManager: >X8.RoundPhase.DemolitionTransition_roundphase.AllowRespawn
 LogCheatManager: >X8.RoundPhase.DemolitionTransition_roundphase.ShouldBarriersBeActive
 LogCheatManager: >X8.RoundPhase.DemolitionTransition_roundphase.AllowBuy
 LogCheatManager: >X8.RoundPhase.DemolitionTransition_roundphase.SkipIfMatchStarted`
+
+Map rotation configuration (values are an example - should correspond to the `MapData` keys in active `UWL_MapsDataAsset` - currently `MapsTemp_dataasset`):
+`"MapRotation.CustomMatch" : "HikariCity_level, MechGarage_level",
+"MapRotation.NormalMatch" : "RockFortress_level, PlazaUtopia_level"`
