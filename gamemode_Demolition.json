@@ -10,8 +10,8 @@
     "SingleServerQueue.Skirmish.LeaveTimeout": 180,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,   
-    "MapRotation.CustomMatch" : "HikariCity_level, MechGarage_level, RockFortress_level, PlazaUtopia_level", 
-    "MapRotation.NormalMatch" : "RockFortress_level, PlazaUtopia_level", 
+    "MapRotation.CustomMatch" : "RockFortress_level, PlazaUtopia_level", 
+    "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
     "Server.ShutdownImmediatelyOnRequest": true
   }
