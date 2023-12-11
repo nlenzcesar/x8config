@@ -1,6 +1,7 @@
 {
     "custom" : {
         "MapRotation.CustomMatch" : "RockFortress_level, PlazaUtopia_level, MechGarage_level, HikariCity_level, OilRig_level",
-        "Incantation.Skip": true
+        "GameMode.Incantation.Skip": true,
+        "GameMode.Money.Infinite": true
     }
 }
