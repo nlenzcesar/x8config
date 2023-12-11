@@ -9,7 +9,6 @@
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 4,
     "SingleServerQueue.Skirmish.LeaveTimeout": 180,
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
-    "GameMode.Incantation.Skip": true,
     "GameMode.MidMatch.Swap.Allow": false,
     "GameMode.Money.Infinite": true
   }
