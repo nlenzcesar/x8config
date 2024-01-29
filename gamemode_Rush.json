@@ -10,7 +10,7 @@
     "SingleServerQueue.Skirmish.LeaveTimeout": 180,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,
-    "MapRotation.NormalMatch" : "RockFortress_level, OilRig_level",   
+    "MapRotation.NormalMatch" : "RockFortress_Rush_level, OilRig_Rush_level",   
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
     "X8.RoundPhase.DemolitionGameplay_roundphase.IgnoreBotsForRoundEndConditions": true
   }
