@@ -10,7 +10,7 @@
     "SingleServerQueue.Skirmish.LeaveTimeout": 180,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,
-    "MapRotation.NormalMatch" : "OilRig_Rush_level, RockFortress_Rush_level, HikariCity_Rush_level, PlazaUtopia_Rush_level, MechGarage_Rush_level",  
+    "MapRotation.NormalMatch" : "OiRig_Rush_level",  
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
     "X8.RoundPhase.DemolitionGameplay_roundphase.IgnoreBotsForRoundEndConditions": true
   }
