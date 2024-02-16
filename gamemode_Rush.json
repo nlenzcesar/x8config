@@ -1,0 +1,17 @@
+{
+  "custom" : 
+  {
+    "GameMode.RoundCount": 4,
+    "GameMode.NumPlayersToStartGame": 2,
+    "GameMode.ForbidLateJoinRound": 3,
+    "IdleComponent.EnableKickPlayers": false,
+    "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
+    "SingleServerQueue.Skirmish.MinLeavePlayersNum": 6,
+    "SingleServerQueue.Skirmish.LeaveTimeout": 180,
+    "TeamsComponent.AllowPartySeparationForRebalance": false, 
+    "TeamsComponent.AllowMovePartyForRebalance": false,
+    "MapRotation.NormalMatch" : "OilRig_Rush_level, RockFortress_Rush_level, HikariCity_Rush_level",  
+    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
+    "X8.RoundPhase.DemolitionGameplay_roundphase.IgnoreBotsForRoundEndConditions": true
+  }
+}
