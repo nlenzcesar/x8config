@@ -9,6 +9,7 @@
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 4,
     "SingleServerQueue.Skirmish.LeaveTimeout": 180,
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
-    "X8.RoundPhase.DemolitionGameplay_roundphase.IgnoreBotsForRoundEndConditions": true
+    "X8.RoundPhase.DemolitionGameplay_roundphase.IgnoreBotsForRoundEndConditions": true,
+    "GameMode.BotsEnabled": true
   }
 }
