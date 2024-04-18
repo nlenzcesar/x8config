@@ -3,8 +3,7 @@
   {
     "GameMode.RoundCount": 4,
     "GameMode.NumPlayersToStartGame": 2,
-    "GameMode.ForbidLateJoinRound": 3,
-    "IdleComponent.EnableKickPlayers": false,
+    "GameMode.ForbidLateJoinRound": 1,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 6,
     "SingleServerQueue.Skirmish.LeaveTimeout": 60,
