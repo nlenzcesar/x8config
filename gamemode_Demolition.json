@@ -6,7 +6,7 @@
     "GameMode.ForbidLateJoinRound": 5,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
-    "SingleServerQueue.Skirmish.LeaveTimeout": 180,
+    "SingleServerQueue.Skirmish.LeaveTimeout": 300,
     "TeamsComponent.AllowPartySeparationForRebalance": false,
     "TeamsComponent.AllowMovePartyForRebalance": false,   
     "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level, RockFortress_level, OilRig_level",
