@@ -7,6 +7,7 @@
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
     "SingleServerQueue.Skirmish.LeaveTimeout": 300,
+    "IdleComponent.EnableKickPlayers": false,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,   
     "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level, RockFortress_level, PlazaUtopia_level, OilRig_level",
