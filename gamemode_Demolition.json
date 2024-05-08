@@ -9,8 +9,8 @@
     "SingleServerQueue.Skirmish.LeaveTimeout": 300,
     "TeamsComponent.AllowPartySeparationForRebalance": false,
     "TeamsComponent.AllowMovePartyForRebalance": false,   
-    "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level, RockFortress_level, OilRig_level",
-    "MapRotation.CustomMatch": "HikariCity_level, MechGarage_level, RockFortress_level, OilRig_level", 
+    "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level, PlazaUtopia_level, RockFortress_level, OilRig_level",
+    "MapRotation.CustomMatch": "HikariCity_level, MechGarage_level, PlazaUtopia_level, RockFortress_level, OilRig_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true
   }
 }
