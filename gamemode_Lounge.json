@@ -1,0 +1,10 @@
+{
+  "custom" : 
+  {
+    "IdleComponent.EnableKickPlayers": false,
+    "TeamsComponent.AllowPartySeparationForRebalance": false, 
+    "TeamsComponent.AllowMovePartyForRebalance": false,   
+    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": false,
+    "Server.ShutdownImmediatelyOnRequest": true
+  }
+}
