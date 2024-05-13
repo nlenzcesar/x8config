@@ -1,6 +1,7 @@
 {
   "custom" : 
   {
+    "GameModeSettings.HideInGameMode": true,
     "GameMode.RoundCount": 14,
     "GameMode.NumPlayersToStartGame": 99,
     "GameMode.ForbidLateJoinRound": 10,
