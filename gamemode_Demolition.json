@@ -1,6 +1,8 @@
 {
   "custom" : 
   {
+    "GameMode.Lounge.ShowTimer": true,
+    "GameMode.Lounge.ShowMatchmakingMenu": false,
     "GameMode.RoundCount": 14,
     "GameMode.NumPlayersToStartGame": 2,
     "GameMode.ForbidLateJoinRound": 10,
