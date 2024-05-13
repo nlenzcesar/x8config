@@ -1,10 +1,13 @@
-{
-  "custom" : 
-  {
+    "GameMode.RoundCount": 14,
+    "GameMode.NumPlayersToStartGame": 99,
+    "GameMode.ForbidLateJoinRound": 10,
+    "SingleServerQueue.Skirmish.MinEnterPlayersNum": 1,
+    "SingleServerQueue.Skirmish.MinLeavePlayersNum": 99,
+    "SingleServerQueue.Skirmish.LeaveTimeout": 86400,
     "IdleComponent.EnableKickPlayers": false,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,   
+    "MapRotation.NormalMatch" : "Skirmish_level",
+    "MapRotation.CustomMatch": "Skirmish_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": false,
     "Server.ShutdownImmediatelyOnRequest": true
-  }
-}
