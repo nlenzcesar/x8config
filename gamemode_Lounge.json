@@ -1,3 +1,6 @@
+{
+  "custom" : 
+  {
     "GameMode.RoundCount": 14,
     "GameMode.NumPlayersToStartGame": 99,
     "GameMode.ForbidLateJoinRound": 10,
@@ -11,3 +14,5 @@
     "MapRotation.CustomMatch": "Skirmish_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": false,
     "Server.ShutdownImmediatelyOnRequest": true
+  }
+}
