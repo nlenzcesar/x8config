@@ -8,7 +8,7 @@
     "GameMode.ForbidLateJoinRound": 5,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
-    "SingleServerQueue.Skirmish.LeaveTimeout": 300,
+    "SingleServerQueue.Skirmish.LeaveTimeout": 180,
     "IdleComponent.EnableKickPlayers": false,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,   
