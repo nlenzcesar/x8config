@@ -12,7 +12,6 @@
     "IdleComponent.EnableKickPlayers": false,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,  
-    "X8.RoundPhase.DemolitionBuy_roundphase.AllowTeamRebalance": true,
     "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level, RockFortress_level, PlazaUtopia_level, OilRig_level",
     "MapRotation.CustomMatch": "HikariCity_level, MechGarage_level, RockFortress_level, PlazaUtopia_level, OilRig_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
