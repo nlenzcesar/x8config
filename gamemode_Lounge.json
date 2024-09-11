@@ -17,6 +17,7 @@
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": false,
     "Server.ShutdownImmediatelyOnRequest": true,
     "ServerService.TimeOut.PendingPlayer": 300,
-    "ServerService.TimeOut.WaitingPlayer": 300
+    "ServerService.TimeOut.WaitingPlayer": 300,
+    "Server.ShutdownImmediatelyOnRequest": true
   }
 }
