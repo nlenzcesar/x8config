@@ -13,8 +13,8 @@
     "MapRotation.CustomMatch": "HikariCity_level, MechGarage_level, PlazaUtopia_level, RockFortress_level, OilRig_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
     "Server.ShutdownImmediatelyOnRequest": true, 
-    "ServerService.TimeOut.PendingPlayer": 300,
-    "ServerService.TimeOut.WaitingPlayer": 300,
+    "ServerService.TimeOut.PendingPlayer": 180,
+    "ServerService.TimeOut.WaitingPlayer": 180,
     "Server.ShutdownImmediatelyOnRequest": true
   }
 }
