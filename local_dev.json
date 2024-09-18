@@ -1,6 +1,7 @@
 {
     "custom" : {
         "MapRotation.CustomMatch" : "RockFortress_Revamp_level, PlazaUtopia_level, MechGarage_level, HikariCity_level, OilRig_level",
-        "Client.TravelDelay" : 5
+        "Client.TravelDelay" : 5,
+        "Client.LockOnPartySkillFailure" : true
     }
 }
