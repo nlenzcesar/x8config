@@ -11,7 +11,7 @@
     "TeamsComponent.AllowRebalance": false,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,  
-    "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level, PlazaUtopia_level, OilRig_level, RockFortress_Revamp_level",
+    "MapRotation.NormalMatch" : "RockFortress_Revamp_level",
     "MapRotation.CustomMatch": "HikariCity_level, MechGarage_level, PlazaUtopia_level, OilRig_level, RockFortress_Revamp_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
     "Server.ShutdownImmediatelyOnRequest": true,
