@@ -3,7 +3,7 @@
   {
     "GameMode.RoundCount": 14,
     "GameMode.NumPlayersToStartGame": 2,
-    "GameMode.ForbidLateJoinRound": 4,
+    "GameMode.ForbidLateJoinRound": 2,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
     "SingleServerQueue.Skirmish.LeaveTimeout": 120,
@@ -16,7 +16,7 @@
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
     "Server.ShutdownImmediatelyOnRequest": true,
     "Server.WaitForPlayersCondition.Enabled": false,
-    "ServerService.TimeOut.PendingPlayer": 90,
-    "ServerService.TimeOut.WaitingPlayer": 90
+    "ServerService.TimeOut.PendingPlayer": 180,
+    "ServerService.TimeOut.WaitingPlayer": 180
   }
 }
