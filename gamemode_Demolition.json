@@ -3,18 +3,20 @@
   {
     "GameMode.RoundCount": 14,
     "GameMode.NumPlayersToStartGame": 2,
-    "GameMode.ForbidLateJoinRound": 5,
+    "GameMode.ForbidLateJoinRound": 3,
     "SingleServerQueue.Skirmish.MinEnterPlayersNum": 2,
     "SingleServerQueue.Skirmish.MinLeavePlayersNum": 10,
     "SingleServerQueue.Skirmish.LeaveTimeout": 120,
-    "TeamsComponent.AllowPartySeparationForRebalance": false,
-    "TeamsComponent.AllowMovePartyForRebalance": false,   
-    "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level, PlazaUtopia_level, RockFortress_Revamp_level, OilRig_level",
-    "MapRotation.CustomMatch": "HikariCity_level, MechGarage_level, PlazaUtopia_level, RockFortress_Revamp_level, OilRig_level", 
+    "IdleComponent.EnableKickPlayers": false,
+    "TeamsComponent.AllowRebalance": false,
+    "TeamsComponent.AllowPartySeparationForRebalance": false, 
+    "TeamsComponent.AllowMovePartyForRebalance": false,  
+    "MapRotation.NormalMatch" : "HikariCity_level, MechGarage_level, PlazaUtopia_level, OilRig_level, RockFortress_Revamp_level, RockFortress_Revamp_level",
+    "MapRotation.CustomMatch": "HikariCity_level, MechGarage_level, PlazaUtopia_level, OilRig_level, RockFortress_Revamp_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
-    "Server.ShutdownImmediatelyOnRequest": true, 
-    "ServerService.TimeOut.PendingPlayer": 180,
-    "ServerService.TimeOut.WaitingPlayer": 180,
-    "Server.ShutdownImmediatelyOnRequest": true
+    "Server.ShutdownImmediatelyOnRequest": true,
+    "Server.WaitForPlayersCondition.Enabled": false,
+    "ServerService.TimeOut.PendingPlayer": 900,
+    "ServerService.TimeOut.WaitingPlayer": 90
   }
 }
