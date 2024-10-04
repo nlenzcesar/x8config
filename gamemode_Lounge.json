@@ -12,8 +12,8 @@
     "IdleComponent.EnableKickPlayers": false,
     "TeamsComponent.AllowPartySeparationForRebalance": false, 
     "TeamsComponent.AllowMovePartyForRebalance": false,   
-    "MapRotation.NormalMatch" : "Skirmish_level",
-    "MapRotation.CustomMatch": "Skirmish_level", 
+    "MapRotation.NormalMatch" : "Lounge_level",
+    "MapRotation.CustomMatch": "Lounge_level", 
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": false,
     "Server.ShutdownImmediatelyOnRequest": true
   }
