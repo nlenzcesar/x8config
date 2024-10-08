@@ -18,7 +18,7 @@
     "Server.WaitForPlayersCondition.Disabled": false,
     "ServerService.TimeOut.PendingPlayer": 900,
     "ServerService.TimeOut.WaitingPlayer": 90,
-    "X8.RoundPhase.DemolitionBuy_roundphase.FirstRoundAddedDuration": 25,
-    "X8.RoundPhase.DemolitionBuy_roundphase.SelectionDuration": 50
+    "X8.RoundPhase.DemolitionBuy_roundphase.FirstRoundAddedDuration": 35,
+    "X8.RoundPhase.DemolitionBuy_roundphase.SelectionDuration": 40
   }
 }
