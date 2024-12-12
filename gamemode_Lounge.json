@@ -14,6 +14,8 @@
     "TeamsComponent.AllowMovePartyForRebalance": false,   
     "MapRotation.NormalMatch" : "Lounge_level",
     "MapRotation.CustomMatch": "Lounge_level", 
+    "ServerService.TimeOut.PendingPlayer": 180,
+    "ServerService.TimeOut.WaitingPlayer": 90,
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": false,
     "Server.ShutdownImmediatelyOnRequest": true
   }
